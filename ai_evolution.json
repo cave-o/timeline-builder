@@ -1,0 +1,197 @@
+{
+	"title": {
+		"media": {
+			"url": "//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Alan_Turing_portrait.jpg/200px-Alan_Turing_portrait.jpg",
+			"caption": "Alan Turing",
+			"credit": "Public domain"
+		},
+		"text": {
+			"headline": "History of Artificial Intelligence",
+			"text": "<p>Explore the key events in the history of Artificial Intelligence (AI) and its evolution from concept to a transformative technology.</p>"
+		}
+	},
+	"events": [
+		{
+			"media": {
+				"url": "//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Alan_Turing_at_work.jpg/220px-Alan_Turing_at_work.jpg",
+				"caption": "Alan Turing at work on the German Enigma machine during World War II.",
+				"credit": "Public domain"
+			},
+			"start_date": {
+				"year": "1940"
+			},
+			"text": {
+				"headline": "Alan Turing's Contributions",
+				"text": "<p>Alan Turing, a British mathematician and logician, plays a crucial role in AI's foundation with his work on the Enigma machine and the concept of a universal machine that could simulate any other machine.</p>"
+			}
+		},
+		{
+			"media": {
+				"url": "//upload.wikimedia.org/wikipedia/commons/thumb/5/5e/John_McCarthy_Stanford.jpg/200px-John_McCarthy_Stanford.jpg",
+				"caption": "John McCarthy",
+				"credit": "Public domain"
+			},
+			"start_date": {
+				"year": "1956"
+			},
+			"text": {
+				"headline": "Dartmouth Workshop",
+				"text": "<p>The term 'Artificial Intelligence' is coined by John McCarthy at the Dartmouth Workshop, marking the birth of AI as a field of study.</p>"
+			}
+		},
+		{
+			"media": {
+				"url": "//upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Ibm_7090_n1.jpg/220px-Ibm_7090_n1.jpg",
+				"caption": "IBM 7090 mainframe computer",
+				"credit": "Public domain"
+			},
+			"start_date": {
+				"year": "1950s"
+			},
+			"text": {
+				"headline": "Early AI Research",
+				"text": "<p>The 1950s and 1960s witness significant AI research, including the development of symbolic AI systems and early natural language processing experiments.</p>"
+			}
+		},
+		{
+			"media": {
+				"url": "//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Robot_asimo.jpg/200px-Robot_asimo.jpg",
+				"caption": "ASIMO, a humanoid robot by Honda",
+				"credit": "Kārlis Dambrāns (Flickr)"
+			},
+			"start_date": {
+				"year": "2000"
+			},
+			"text": {
+				"headline": "AI in Robotics",
+				"text": "<p>Rapid advancements in robotics, like Honda's ASIMO, showcase AI's impact on the development of intelligent machines capable of complex tasks.</p>"
+			}
+		},
+		{
+			"media": {
+				"url": "//upload.wikimedia.org/wikipedia/commons/thumb/2/22/IBM_Watson.jpg/200px-IBM_Watson.jpg",
+				"caption": "IBM Watson",
+				"credit": "IBM"
+			},
+			"start_date": {
+				"year": "2011"
+			},
+			"text": {
+				"headline": "IBM's Watson",
+				"text": "<p>IBM's Watson wins the Jeopardy! quiz show, showcasing AI's natural language processing capabilities and its potential in various industries.</p>"
+			}
+		},
+		{
+			"media": {
+				"url": "//upload.wikimedia.org/wikipedia/commons/thumb/1/17/AlphaGo_Match_2.jpg/200px-AlphaGo_Match_2.jpg",
+				"caption": "AlphaGo playing against Lee Sedol",
+				"credit": "Wired for Sound (Flickr)"
+			},
+			"start_date": {
+				"year": "2016"
+			},
+			"text": {
+				"headline": "AlphaGo's Triumph",
+				"text": "<p>Google's AlphaGo defeats world champion Go player Lee Sedol, demonstrating AI's ability to master complex, strategic games.</p>"
+			}
+		},
+		{
+			"media": {
+				"url": "//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Deep_Learning_%28%26_AI%29_Frameworks_by_OpenAI.png/220px-Deep_Learning_%28%26_AI%29_Frameworks_by_OpenAI.png",
+				"caption": "Deep Learning Frameworks",
+				"credit": "OpenAI"
+			},
+			"start_date": {
+				"year": "2010s"
+			},
+			"text": {
+				"headline": "Deep Learning Advancements",
+				"text": "<p>Deep learning, a subset of AI, gains prominence with breakthroughs in neural networks, leading to significant advances in machine learning.</p>"
+			}
+		},
+		{
+			"media": {
+				"url": "//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Neural_network.svg/220px-Neural_network.svg.png",
+				"caption": "Neural Networks",
+				"credit": "Cburnett (Wikimedia Commons)"
+			},
+			"start_date": {
+				"year": "2010s"
+			},
+			"text": {
+				"headline": "Rise of Neural Networks",
+				"text": "<p>Neural networks, inspired by the human brain, become a fundamental technology behind AI's success, particularly in deep learning and image recognition.</p>"
+			}
+		},
+		{
+			"media": {
+				"url": "//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/AlphaZero_Chess_Puzzle_1.png/220px-AlphaZero_Chess_Puzzle_1.png",
+				"caption": "AlphaZero playing chess",
+				"credit": "Google DeepMind"
+			},
+			"start_date": {
+				"year": "2017"
+			},
+			"text": {
+				"headline": "AlphaZero's Chess Mastery",
+				"text": "<p>AlphaZero, developed by DeepMind, achieves superhuman performance in chess through reinforcement learning, further illustrating AI's capabilities.</p>"
+			}
+		},
+		{
+			"media": {
+				"url": "//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Deep_Blue.jpg/220px-Deep_Blue.jpg",
+				"caption": "IBM's Deep Blue",
+				"credit": "Gerd Hatje (Wikimedia Commons)"
+			},
+			"start_date": {
+				"year": "1997"
+			},
+			"text": {
+				"headline": "Deep Blue vs. Kasparov",
+				"text": "<p>IBM's Deep Blue defeats world chess champion Garry Kasparov, marking a historic moment in AI's journey to surpass human performance in specific domains.</p>"
+			}
+		},
+		{
+			"media": {
+				"url": "//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/AlphaFold_DeepMind_cropped.png/200px-AlphaFold_DeepMind_cropped.png",
+				"caption": "AlphaFold by DeepMind",
+				"credit": "DeepMind"
+			},
+			"start_date": {
+				"year": "2020"
+			},
+			"text": {
+				"headline": "AlphaFold's Protein Folding Breakthrough",
+				"text": "<p>DeepMind's AlphaFold revolutionizes biology and medicine by predicting protein structures with exceptional accuracy, a major scientific advancement.</p>"
+			}
+		},
+		{
+			"media": {
+				"url": "//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/GPT-3.png/220px-GPT-3.png",
+				"caption": "GPT-3 by OpenAI",
+				"credit": "OpenAI"
+			},
+			"start_date": {
+				"year": "2020"
+			},
+			"text": {
+				"headline": "GPT-3's Language Models",
+				"text": "<p>OpenAI's GPT-3 showcases the power of large-scale language models, with applications in natural language understanding, generation, and conversation.</p>"
+			}
+		},
+		{
+			"media": {
+				"url": "//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Deep_Mind_logo.png/220px-Deep_Mind_logo.png",
+				"caption": "DeepMind by Google",
+				"credit": "DeepMind"
+			},
+			"start_date": {
+				"year": "2021"
+			},
+			"text": {
+				"headline": "AI in Healthcare",
+				"text": "<p>AI, particularly DeepMind's algorithms, plays an essential role in healthcare, aiding in medical diagnoses, drug discovery, and patient care.</p>"
+			}
+		}
+	]
+}
